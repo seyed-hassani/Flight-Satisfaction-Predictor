@@ -1,17 +1,17 @@
-# ✈️ Airline Passenger Satisfaction Prediction
+#  Airline Passenger Satisfaction Prediction
 
 This project focuses on predicting airline passenger satisfaction based on various features related to the flight experience, service quality, and passenger demographics. The model is trained using a deep neural network implemented in Keras.
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 The dataset includes two files:
 
 - `train.csv`: Contains labeled training samples including the target column `satisfaction`.
 - `test.csv`: Contains unlabeled test samples. Your model should predict the `satisfaction` column for these.
 
-### 🧾 Features
+###  Features
 
 | Feature                              | Description                                                                 |
 |--------------------------------------|-----------------------------------------------------------------------------|
@@ -41,7 +41,7 @@ The dataset includes two files:
 
 ---
 
-## 🚀 Project Structure
+##  Project Structure
 
 Airline-Passenger-Satisfaction/
 │
@@ -56,7 +56,7 @@ Airline-Passenger-Satisfaction/
 
 ---
 
-## 🧠 Model
+##  Model
 
 - Deep Neural Network (Keras with TensorFlow backend)
 - Binary classification task
@@ -64,7 +64,7 @@ Airline-Passenger-Satisfaction/
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. **Clone the repository**:
    ```bash
@@ -88,7 +88,7 @@ bash
 Copy
 Edit
 python predict.py
-📊 Evaluation
+ Evaluation
 The model is evaluated using:
 
 ✅ Accuracy
@@ -99,10 +99,10 @@ The model is evaluated using:
 
 ✅ (Optional) ROC-AUC Curve
 
-📜 License
+ License
 This project is licensed under the MIT License.
 
-👤 Author
+ Author
 Seyed Mohammad Mehdi Hassani Najafabadi
 Master’s in Software Development – McMaster University
 GitHub • LinkedIn
